@@ -1,0 +1,15 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+langchainhub
+sentence_transformers
+PyPDF2
+langchain-objectbox
